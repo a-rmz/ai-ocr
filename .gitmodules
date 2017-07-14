@@ -1,0 +1,9 @@
+[submodule "cr-api"]
+	path = cr-api
+	url = git@github.com:a-rmz/cr-api.git
+[submodule "crapp"]
+	path = crapp
+	url = git@github.com:a-rmz/crapp.git
+[submodule "NeuralNetwork"]
+	path = NeuralNetwork
+	url = git@github.com:Rudycc/NeuralNetwork.git
